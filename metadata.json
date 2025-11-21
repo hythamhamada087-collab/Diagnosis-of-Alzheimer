@@ -1,0 +1,5 @@
+{
+  "name": "NeuroFusion",
+  "description": "AI-powered early Alzheimer’s disease detection system fusing MRI analysis with patient clinical data.",
+  "requestFramePermissions": []
+}
